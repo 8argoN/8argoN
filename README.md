@@ -16,9 +16,6 @@
 <a href="https://github.com/metleeha"><img src="https://camo.githubusercontent.com/5a3ccedcf2d527ada110e4e0e8f29fab3473f2b288ea1836154749e197ebf643/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170692f746f702d6c616e67732f3f757365726e616d653d7365756e676c616e67266c61796f75743d636f6d70616374267468656d653d767565" alt="Top Langs" data-canonical-src="https://github-readme-stats.vercel.app/api/top-langs/?username=seunglang&amp;layout=compact&amp;theme=vue" style="max-width: 100%;"></a></p>
 </h1></div>
 
-<div align="center" dir="auto"> 
-<a href="mailto:seungwon987@gmail.com"><img src="https://camo.githubusercontent.com/ec87ea5cf97332ebe242de202b0fb9148205ef5fb62a16367509392bb98c13aa/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f7365756e67776f6e39383740676d61696c2e636f6d2d4631343232383f7374796c653d666c61742d737175617265266c6f676f3d476d61696c266c6f676f436f6c6f723d7768697465266c696e6b3d6d61696c746f3a7365756e67776f6e39383740676d61696c2e636f6d" data-canonical-src="https://img.shields.io/badge/seungwon987@gmail.com-F14228?style=flat-square&amp;logo=Gmail&amp;logoColor=white&amp;link=mailto:seungwon987@gmail.com" style="max-width: 100%;"></a>
-</div>
 
 </article>
   </div>
